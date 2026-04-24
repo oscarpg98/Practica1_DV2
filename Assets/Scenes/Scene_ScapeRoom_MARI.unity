@@ -5594,8 +5594,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.0038074404, y: -0.8050254, z: -0.0067192465, w: 0.5931902}
-  m_LocalPosition: {x: 8.6719475, y: -0.3650863, z: 9.537107}
+  m_LocalRotation: {x: -0.044842683, y: -0.8841649, z: -0.10332599, w: 0.4533932}
+  m_LocalPosition: {x: 8.654042, y: -0.3647711, z: 9.531255}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17892,6 +17892,8 @@ Transform:
   - {fileID: 9915510}
   - {fileID: 1700586461}
   - {fileID: 485302485}
+  - {fileID: 1978639845}
+  - {fileID: 1292404117}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1253318849
@@ -18835,12 +18837,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1292404113}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 6.24, y: 0.3, z: 7.578}
-  m_LocalScale: {x: 1.6243262, y: 0.93363696, z: 1}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 2.5599997, y: 0.010690004, z: 2.1680002}
+  m_LocalScale: {x: 1.6243263, y: 0.93363696, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1247040403}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &1295153307
 GameObject:
@@ -28568,12 +28570,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1978639841}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 6.58246, y: 0.3, z: 7.578}
-  m_LocalScale: {x: 1.6243262, y: 0.93363696, z: 1}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 2.9024599, y: 0.010690004, z: 2.1680002}
+  m_LocalScale: {x: 1.6243263, y: 0.93363696, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1247040403}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!4 &1982307158 stripped
 Transform:
@@ -31543,5 +31545,3 @@ SceneRoots:
   - {fileID: 1738299122}
   - {fileID: 1355513836}
   - {fileID: 1262225901}
-  - {fileID: 1978639845}
-  - {fileID: 1292404117}
